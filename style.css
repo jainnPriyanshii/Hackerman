@@ -1,0 +1,12 @@
+body{
+    background-image:url("https://th.bing.com/th/id/R.6127411b8afda356b440159dd67d14a3?rik=ncE76bSMUof3cA&riu=http%3a%2f%2fepmgaa.media.clients.ellingtoncms.com%2fimg%2fphotos%2f2014%2f08%2f14%2f20820-anonymous-mask-1920x1200-digital-art-wallpaper.jpg&ehk=o5EP2u1JOb060%2fT2NNw7A7VlKb%2fmGZMHHiF2JpiY%2bmw%3d&risl=&pid=ImgRaw&r=0");
+    color: rgba(17, 160, 17, 0.752);
+
+}
+
+#text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 800;
+}
+
